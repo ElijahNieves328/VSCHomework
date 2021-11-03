@@ -2,3 +2,8 @@ Group member one: Elijah Nieves
 Group member two: Alejandro Figueredo Garcia
 
 C:\Users\Owner\MyFirstProject>git clone https://github.com/ElijahNieves328/VSCHomework.git
+git status
+git add .
+git commit -m "Update vscen3031.txt"
+git push VCSHomework master
+
