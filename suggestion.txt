@@ -1,1 +1,2 @@
-
+On the repo click on the fork button (top right) to create fork
+To make a pull request from your fork: click on "contribute" and click :open pull request"
